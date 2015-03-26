@@ -1423,8 +1423,8 @@ key "2"
 \end_inset
 
 Stoica, Robert Morris, David Karger, M.
- Frans Kaashoek, and Hari Balakrishnan.
- Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications
+ Frans Kaashoek, and Hari Balakrishnan,Chord: A Scalable Peer-to-peer Lookup
+ Service for Internet Applications
 \end_layout
 
 \begin_layout Bibliography
@@ -1435,9 +1435,7 @@ key "3"
 
 \end_inset
 
-David Irvine.
- DHT-based NAT Traversal.
- david.irvine@maidsafe.net
+David Irvine, DHT-based NAT Traversal, david.irvine@maidsafe.net
 \end_layout
 
 \begin_layout Bibliography
@@ -1448,9 +1446,7 @@ key "4"
 
 \end_inset
 
-David Irvine.
- maidsafe: A new networking paradigm.
- david.irvine@maidsafe.net
+David Irvine, maidsafe: A new networking paradigm, david.irvine@maidsafe.net
 \end_layout
 
 \begin_layout Bibliography
